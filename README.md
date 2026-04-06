@@ -13,3 +13,6 @@ The Volcano Plot categorizes genes into three biological groups:
 **UP-Regulated (Red):** Genes significantly induced by viral stress. These represent the primary antiviral effectors in the _B. mori_ immune system.
 **DOWN-Regulated (Blue):** Genes significantly suppressed. These typically involve the downregulation of nutrient gatekeepers as the cell shifts resources to defense.
 **Non-Significant (Black):** Genes whose expression changes were statistically negligible
+**New Tools Used**
+**Library:** ggplot2 (Data Visualization)
+**Statistical Methods:** Log-transformation, P-value filtering, and Boolean categorization.
